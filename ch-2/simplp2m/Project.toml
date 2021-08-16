@@ -1,0 +1,4 @@
+name = "simplp2m"
+uuid = "79d07b55-7b09-44ae-835e-f48bcb09ddf4"
+authors = ["Jack Murphy <signal.space@pm.me>"]
+version = "0.1.0"

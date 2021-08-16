@@ -1,0 +1,4 @@
+name = "SimpleLowPass"
+uuid = "2d45fc50-2490-4293-af6b-768d04536e1e"
+authors = ["Jack Murphy <signal.space@pm.me>"]
+version = "0.1.0"
